@@ -1,3 +1,14 @@
+# Directories 
+bin
+bin-obj
+
+# Visual Studio
+**.vs
+**.sln
+**.user
+**.filters
+**.vcxproj
+
 # Prerequisites
 *.d
 
