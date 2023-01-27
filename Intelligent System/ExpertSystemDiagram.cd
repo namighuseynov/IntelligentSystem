@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ExpertSystem::ExplanationTool">
+    <Position X="2" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\IntelligentSystem\ExpertSystem\ExpertSystem\Components\ExplanationTool.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpertSystem::KnowledgeBase">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\IntelligentSystem\ExpertSystem\ExpertSystem\Components\KnowledgeBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpertSystem::MeansOfAcquiringKnowledge">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\IntelligentSystem\ExpertSystem\ExpertSystem\Components\MeansOfAcquiringKnowledge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpertSystem::Solver">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\IntelligentSystem\ExpertSystem\ExpertSystem\Components\Solver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpertSystem::UserInterface">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\IntelligentSystem\ExpertSystem\ExpertSystem\Components\UserInterface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpertSystem::WorkingMemory">
+    <Position X="2" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\IntelligentSystem\ExpertSystem\ExpertSystem\Components\WorkingMemory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
