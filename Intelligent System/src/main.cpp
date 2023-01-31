@@ -1,5 +1,5 @@
 #include <iostream>
-#include "IntelligentSystem/ExpertSystem/ExpertSystem.h"
+#include "../../AILib/src/AILib/IntelligentSystem/ExpertSystem/ExpertSystem.h"
 
 int main() {
 	return 0;

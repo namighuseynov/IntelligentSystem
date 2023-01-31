@@ -11,3 +11,4 @@ workspace "IntelligentSystem"
             defines "X64"
 
 include "Intelligent System"
+include "AILib"
